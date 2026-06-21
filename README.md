@@ -231,10 +231,9 @@ Ensure all new code is strongly typed and follows the existing ESLint configurat
 
 ## About the Author
 
-**Uday Sharma**
-Developer, Creator, and Founder of HackShastra.
+**PALLAB BAG**
+Developer, Creator, and Founder of createxwebstudios.
 
-- [GitHub](https://github.com/udaysharmadev)
-- [LinkedIn](https://www.linkedin.com/in/udaydotai/)
-- [X (Twitter)](https://x.com/udaysharmatech)
-- [Instagram](https://www.instagram.com/udaysharmaaaaa/)
+- [GitHub](https://github.com/PALLAB2005)
+- [LinkedIn](https://www.linkedin.com/in/pallab-bag-816842332/)
+- [Instagram](https://www.instagram.com/_pallab_7890/)

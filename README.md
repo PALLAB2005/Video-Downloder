@@ -2,7 +2,7 @@
 
 An open-source interface and queue manager for `yt-dlp` built with Next.js.
 
-## Why this exists
+## Why this exists:
 
 Most online downloaders are cluttered with ads, redirects, misleading buttons, and poor user experiences. This project provides a transparent, local-first workflow by wrapping the `yt-dlp` binary in a clean web interface without external dependencies or data tracking.
 

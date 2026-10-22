@@ -20,7 +20,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 - Download queue
 - Clipboard detection
 
-### User Experience
+### User Experience:
 - Responsive UI
 - Dark mode
 - Download history

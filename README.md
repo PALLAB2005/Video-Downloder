@@ -14,7 +14,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 - Dynamic quality detection
 - Multiple format support
 
-### Advanced Features
+### Advanced Features:
 - Playlist downloads
 - Batch downloads
 - Download queue

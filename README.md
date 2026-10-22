@@ -26,7 +26,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 - Download history
 - Analytics dashboard
 
-### Open Source
+### Open Source:
 - Roadmap
 - Changelog
 - GitHub integration

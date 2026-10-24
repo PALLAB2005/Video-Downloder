@@ -8,7 +8,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 
 ## Features:
 
-### Downloading
+### Downloading:
 - Video downloads
 - Audio downloads
 - Dynamic quality detection

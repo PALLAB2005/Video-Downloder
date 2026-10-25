@@ -132,7 +132,7 @@ sequenceDiagram
     F-->>U: Save File
 ```
 
-## Queue Management Architecture
+## Queue Management Architecture:
 
 ```mermaid
 stateDiagram-v2

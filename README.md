@@ -31,7 +31,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 - Changelog
 - GitHub integration
 
-## Tech Stack
+## Tech Stack:
 
 | Technology | Purpose |
 |------------|---------|

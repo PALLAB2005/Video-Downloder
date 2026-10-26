@@ -43,7 +43,7 @@ Most online downloaders are cluttered with ads, redirects, misleading buttons, a
 | Framer Motion | Animation library for route transitions and micro-interactions. |
 | Lucide React | SVG icon library. |
 
-## System Architecture
+## System Architecture:
 
 ### High-Level Architecture
 

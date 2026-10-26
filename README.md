@@ -56,7 +56,7 @@ flowchart LR
   YtDlp <--> YouTube[(YouTube)]
 ```
 
-### Download Flow
+### Download Flow:
 
 ```mermaid
 flowchart TD

@@ -146,7 +146,7 @@ stateDiagram-v2
     Completed --> [*]
 ```
 
-## Analytics Flow
+## Analytics Flow:
 
 ```mermaid
 flowchart LR

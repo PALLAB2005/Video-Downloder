@@ -104,7 +104,7 @@ graph TD
 - **lib/**: Contains core extraction abstractions (`core/downloader.ts`) and custom React hooks (`hooks/use-queue-manager.ts`).
 - **store/**: Global state definitions for the download queue, history, and user settings with local storage persistence.
 
-## Download Pipeline
+## Download Pipeline:
 
 ```mermaid
 sequenceDiagram

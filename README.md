@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Downloader:
 
 An open-source interface and queue manager for `yt-dlp` built with Next.js.
 

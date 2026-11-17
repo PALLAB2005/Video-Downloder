@@ -67,7 +67,7 @@ flowchart TD
   E --> F[Stream Response]
 ```
 
-### Playlist Flow
+### Playlist Flow:
 
 ```mermaid
 flowchart TD

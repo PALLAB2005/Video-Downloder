@@ -229,7 +229,7 @@ No environment variables are required for standard local operation. The applicat
 
 Ensure all new code is strongly typed and follows the existing ESLint configurations. Verify builds locally (`npm run build`) before submitting.
 
-## About the Author
+## About the Author:
 
 **PALLAB BAG**
 Developer, Creator, and Founder of createxwebstudios.

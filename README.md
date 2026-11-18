@@ -155,7 +155,7 @@ flowchart LR
   Store --> Dashboard[Analytics Dashboard UI]
 ```
 
-## Getting Started
+## Getting Started:
 
 ### Installation
 
